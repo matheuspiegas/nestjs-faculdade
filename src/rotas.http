@@ -1,0 +1,8 @@
+POST http://localhost:3000/alunos
+Content-Type: application/json
+
+{
+    "nome": "João da Silva",
+    "email": "jao@upf.br",
+    "age": 20
+}
